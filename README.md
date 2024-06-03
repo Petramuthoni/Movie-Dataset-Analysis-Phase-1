@@ -11,6 +11,8 @@ The merged dataset had its own shortcomings such as null values in some rows, in
 The data cleaning and preparation process involved dropping the unnecessary columns, filling the financial nulls with the mean as well as correcting the financials columns datatypes
 After data cleaning, the dataset had 26855 rows and 13 columns.
 # Data Analysis Visuals
+![image](https://github.com/Petramuthoni/Movie-Dataset-Analysis-Phase-1/assets/45505577/b763bd8b-0221-402d-a6b2-cd86dd61b999)
+
 
 # Findings
 movies that has high vote counts were the most popular movies.
