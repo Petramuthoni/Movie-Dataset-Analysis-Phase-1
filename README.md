@@ -20,7 +20,9 @@ Research Question 3 (Which movies had the highest movie budgets?)
 
 # Findings
 movies that has high vote counts were the most popular movies.
+
 The budget needed to produce movies is bound to increase every decade
+
 The the top three movies with the highest budget are 9 Songs, Beverly Hills Cop and Anatomy of a Murder.These movies are mainly belong to action and drama genres
 
 
